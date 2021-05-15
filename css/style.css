@@ -1,0 +1,47 @@
+.title {
+  background-color: #313c4e;
+}
+
+.title h5 {
+  color: #439399;
+}
+
+.avatar {
+  max-width: 93%;
+}
+
+.contact-info {
+  background-color: #232a33;
+  margin: -20px;
+}
+
+.experience {
+  margin: 20px -20px 0;
+}
+
+.header-color {
+  color: #439399;
+}
+
+.work-experience {
+
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #439399; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+.skill {
+  background-color: #989da6;
+}
