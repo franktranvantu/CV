@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T16:54:14.991Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="OdBWvUO_9VCYgmdeJ4Qh" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T16:55:32.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="5OgcSSJTjiLVAQsz6QzI" version="14.9.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="818" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,20 @@
             <mxPoint x="49.239999999999895" y="280.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="h2aSoELGpCIUzJ3H6e83-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h2aSoELGpCIUzJ3H6e83-9" target="h2aSoELGpCIUzJ3H6e83-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h2aSoELGpCIUzJ3H6e83-9" value="Margin&lt;br&gt;Feature" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="240" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h2aSoELGpCIUzJ3H6e83-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h2aSoELGpCIUzJ3H6e83-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="359.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="340" />
+              <mxPoint x="260" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="h2aSoELGpCIUzJ3H6e83-10" value="NFT&lt;br&gt;DEFI" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="240" width="40" height="80" as="geometry" />
@@ -42,6 +54,9 @@
             <mxPoint x="270" y="210" as="sourcePoint" />
             <mxPoint x="234.76" y="249.76" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h2aSoELGpCIUzJ3H6e83-13" value="Lợi nhuận" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="360" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
