@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T16:47:39.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="cPSZSj8BoreQnlG7ewZx" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T16:48:37.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="vncBXKe4uxoKFK7Aop3Q" version="14.9.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="818" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,12 @@
         </mxCell>
         <mxCell id="h2aSoELGpCIUzJ3H6e83-2" value="Dự phòng" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h2aSoELGpCIUzJ3H6e83-3" value="LINK" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="240" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h2aSoELGpCIUzJ3H6e83-4" value="DOT" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="240" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
