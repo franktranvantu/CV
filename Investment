@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T16:57:45.139Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="F2CPFBIb1ZNrq7Tp363N" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T16:58:27.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="36RxKcZDgs1v6m4v0Vlb" version="14.9.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="818" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         </mxCell>
         <mxCell id="h2aSoELGpCIUzJ3H6e83-18" value="30%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h2aSoELGpCIUzJ3H6e83-17">
           <mxGeometry x="0.0845" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-30" y="200" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h2aSoELGpCIUzJ3H6e83-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h2aSoELGpCIUzJ3H6e83-13" target="h2aSoELGpCIUzJ3H6e83-1">
@@ -73,7 +73,7 @@
         </mxCell>
         <mxCell id="h2aSoELGpCIUzJ3H6e83-20" value="70%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h2aSoELGpCIUzJ3H6e83-19">
           <mxGeometry x="-0.0082" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="30" y="116" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h2aSoELGpCIUzJ3H6e83-13" value="Lợi nhuận" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
