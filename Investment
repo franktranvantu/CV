@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T17:05:53.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="bZfSxASnqqtL1LR_BjOT" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T17:06:25.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="FDTalKB6Aaib0Z57ChQW" version="14.9.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="818" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,11 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="h2aSoELGpCIUzJ3H6e83-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h2aSoELGpCIUzJ3H6e83-0" target="h2aSoELGpCIUzJ3H6e83-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h2aSoELGpCIUzJ3H6e83-32" value="50%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h2aSoELGpCIUzJ3H6e83-5">
+          <mxGeometry x="0.019" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="h2aSoELGpCIUzJ3H6e83-0" value="Dài hạn" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="120" width="60" height="80" as="geometry" />
@@ -29,6 +34,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="210" as="sourcePoint" />
             <mxPoint x="149.2399999999999" y="280.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h2aSoELGpCIUzJ3H6e83-33" value="50%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h2aSoELGpCIUzJ3H6e83-6">
+          <mxGeometry x="0.0328" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h2aSoELGpCIUzJ3H6e83-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h2aSoELGpCIUzJ3H6e83-9" target="h2aSoELGpCIUzJ3H6e83-13">
